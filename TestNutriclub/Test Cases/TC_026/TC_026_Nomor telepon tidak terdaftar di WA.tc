@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_026_Nomor telepon tidak terdaftar di WA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ee24766-f1f6-4585-b151-af5900d88cf9</testCaseGuid>
+</TestCaseEntity>

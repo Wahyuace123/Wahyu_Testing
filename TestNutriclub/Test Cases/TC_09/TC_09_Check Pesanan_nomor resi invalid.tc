@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_09_Check Pesanan_nomor resi invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e27d3197-cbe2-4620-9381-71b4865991bd</testCaseGuid>
+</TestCaseEntity>

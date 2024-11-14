@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_019_NomorTeleponSymbol_karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba0b19ca-d675-43b1-b5bc-aa433cd9375d</testCaseGuid>
+</TestCaseEntity>

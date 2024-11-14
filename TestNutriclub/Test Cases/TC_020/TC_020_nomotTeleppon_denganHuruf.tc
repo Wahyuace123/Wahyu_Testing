@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_020_nomotTeleppon_denganHuruf</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b1b898b-4e4c-4f43-9134-1c0aa154949e</testCaseGuid>
+</TestCaseEntity>

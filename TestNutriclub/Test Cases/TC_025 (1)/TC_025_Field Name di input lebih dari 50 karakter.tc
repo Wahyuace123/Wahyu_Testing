@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_025_Field Name di input lebih dari 50 karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>477bc725-2398-4e7c-af9c-f5d16a61823f</testCaseGuid>
+</TestCaseEntity>

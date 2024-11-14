@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_024_ field name tidak di input</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bba476db-360a-41c1-a0ab-c59d09dadbf3</testCaseGuid>
+</TestCaseEntity>

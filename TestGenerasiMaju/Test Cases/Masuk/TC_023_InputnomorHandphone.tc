@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_023_InputnomorHandphone</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d6b62fe1-47af-443b-9852-4cd67576a9b0</testCaseGuid>
+</TestCaseEntity>

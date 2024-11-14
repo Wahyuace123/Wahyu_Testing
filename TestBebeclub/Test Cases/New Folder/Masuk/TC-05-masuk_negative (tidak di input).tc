@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-05-masuk_negative (tidak di input)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8cdfb26-ea53-4a28-b924-f45162fb2cb3</testCaseGuid>
+</TestCaseEntity>

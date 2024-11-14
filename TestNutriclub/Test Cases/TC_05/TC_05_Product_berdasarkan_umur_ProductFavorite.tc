@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_05_Product_berdasarkan_umur_ProductFavorite</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d0eb347-6c5f-449b-8112-2d3439601a8d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_011_Daftar_positive</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44fe791b-cb8d-4638-8e63-b686bfca5d24</testCaseGuid>
+</TestCaseEntity>

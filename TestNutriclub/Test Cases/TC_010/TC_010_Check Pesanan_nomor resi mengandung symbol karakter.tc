@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_010_Check Pesanan_nomor resi mengandung symbol karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ff3eb99-6e1a-41c1-a766-599f747e81b7</testCaseGuid>
+</TestCaseEntity>

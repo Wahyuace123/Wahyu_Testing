@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_015 Pilih tanggal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>acfe9314-aaee-4da1-82a2-36c44450ffcf</testCaseGuid>
+</TestCaseEntity>

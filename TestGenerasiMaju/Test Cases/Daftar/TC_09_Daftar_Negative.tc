@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_09_Daftar_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97d302a2-e7d5-45aa-b6d6-7df11ea11d84</testCaseGuid>
+</TestCaseEntity>

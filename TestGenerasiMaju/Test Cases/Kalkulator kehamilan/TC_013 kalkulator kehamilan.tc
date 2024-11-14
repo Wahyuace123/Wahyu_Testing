@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_013 kalkulator kehamilan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0924204-dca5-4ef0-a7c1-20de0b77c5a8</testCaseGuid>
+</TestCaseEntity>

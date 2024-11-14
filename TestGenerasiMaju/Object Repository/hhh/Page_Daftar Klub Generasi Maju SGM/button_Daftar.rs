@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Daftar</name>
+   <tag></tag>
+   <elementGuidId>970e6e75-695f-442a-8abc-27c3001f0fc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#register-new-kgm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='register-new-kgm']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cafdeeb0-680c-473c-b54f-4c53e8b10736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>38dc9663-c56c-433b-9b58-0d5ff770fa42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary full-width font-capitalize</value>
+      <webElementGuid>aa3631b6-6ffe-4442-b687-0e809540bba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>register-new-kgm</value>
+      <webElementGuid>80d5e2e9-61ef-43d6-a257-b76d7c1f05fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Daftar
+</value>
+      <webElementGuid>d3095bd1-a38a-4785-a67b-b3cfedf56fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register-new-kgm&quot;)</value>
+      <webElementGuid>288868e7-1dbd-4741-89fd-e421f70916ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='register-new-kgm']</value>
+      <webElementGuid>b5d702b7-32e1-4ccc-83f5-66c0411e8639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerkgm']/div/div[10]/button</value>
+      <webElementGuid>d6b44896-5587-422d-8fdc-0730a13bf4d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie'])[1]/following::button[1]</value>
+      <webElementGuid>6515344a-bbf9-4311-8680-c25bdcdcea12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/following::button[1]</value>
+      <webElementGuid>7f7718a5-42d3-4b86-b1c3-ec2c5eba5f86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari lebih lanjut.'])[1]/preceding::button[1]</value>
+      <webElementGuid>132f761c-39fd-485a-8285-839c9a601492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[4]/preceding::button[1]</value>
+      <webElementGuid>2a9c32e9-a4ff-4fac-8d73-8eafcf125e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/button</value>
+      <webElementGuid>1654d1b5-9ca2-41bb-b9fb-eb983f8c7077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'register-new-kgm' and (text() = '
+Daftar
+' or . = '
+Daftar
+')]</value>
+      <webElementGuid>e02d9524-a159-4610-a7e0-3aa365822623</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

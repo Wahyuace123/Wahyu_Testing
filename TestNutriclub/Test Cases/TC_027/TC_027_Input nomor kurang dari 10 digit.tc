@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_027_Input nomor kurang dari 10 digit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52cacdcd-17e7-43ea-b21a-c6a15789924f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04_Product_berdasaarkan_umur</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3c8803a-d8b4-4ff1-90cc-6cfe81c0950a</testCaseGuid>
+</TestCaseEntity>

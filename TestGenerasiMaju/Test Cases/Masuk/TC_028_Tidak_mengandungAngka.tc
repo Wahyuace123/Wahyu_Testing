@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_028_Tidak_mengandungAngka</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc513211-3297-4695-abda-563c19fec009</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_08_Check Pesanan_nomor resi tidak di input</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a683e8f-f4f6-414d-9b9b-0238d66ba383</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_029 TidakMengandungsymbolkarakter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f21822b-d330-4f2c-8264-12e2d16ee10c</testCaseGuid>
+</TestCaseEntity>

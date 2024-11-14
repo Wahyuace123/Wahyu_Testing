@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Kode Referral</name>
+   <tag></tag>
+   <elementGuidId>9c40ef5f-a189-489e-b7ab-493134542f7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.form-check-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='registerkgm']/div/div[8]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>56598fec-d241-4666-8ee7-356e3e7a0dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>referral</value>
+      <webElementGuid>b221d881-fd7f-4323-9045-22602bcc7f7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label</value>
+      <webElementGuid>c9fe531d-11a2-4a90-a956-31db2b6b83e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kode Referral</value>
+      <webElementGuid>7eabde90-bbc2-4243-9240-0d83b61c596b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerkgm&quot;)/div[@class=&quot;register-form&quot;]/div[@class=&quot;form-group refferal-event&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 form-check&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>7d564a9a-9ac6-45da-b6c3-f353a2d624e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerkgm']/div/div[8]/div/div/label</value>
+      <webElementGuid>2306aa3a-5ff5-4bf1-b7c6-86db83006861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Format tanggal lahir salah'])[1]/following::label[2]</value>
+      <webElementGuid>8fa35afa-e6c9-4f3c-90dc-262ddeb557a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Lahir Anak'])[1]/following::label[2]</value>
+      <webElementGuid>7e7ae3d7-33fa-4d93-830f-9396d3f1b89f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Event'])[1]/preceding::label[1]</value>
+      <webElementGuid>ef6a4ba9-807e-471a-b682-0f3943efc566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Referal (opsional)'])[1]/preceding::label[2]</value>
+      <webElementGuid>01d00d97-f6c1-4820-890b-06b30c6935a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kode Referral']/parent::*</value>
+      <webElementGuid>c45d3bc8-84a0-47bd-98b7-dbf0051fb062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/label</value>
+      <webElementGuid>d83f684e-c824-4203-ae71-672b4d7b9dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Kode Referral' or . = 'Kode Referral')]</value>
+      <webElementGuid>92f6fead-e6d2-48c3-9d15-6d18b354230f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

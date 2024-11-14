@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Password_fa fa-eye-slash toggle-password-_7adcac</name>
+   <tag></tag>
+   <elementGuidId>7502317c-7ec9-4d79-9fe7-40bfe522f6fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-eye-slash.toggle-password-register</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='registerkgm']/div/div[3]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>cbc21bdf-d80f-4ecf-80bd-4bd3c0168a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-eye-slash toggle-password-register</value>
+      <webElementGuid>9ebb369c-76cc-42c4-885e-939d8d5c1f55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>07f2f373-90b8-4b8a-b92c-1180fe8de79a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerkgm&quot;)/div[@class=&quot;register-form&quot;]/div[@class=&quot;form-group password-register-area&quot;]/span[@class=&quot;eye&quot;]/i[@class=&quot;fa fa-eye-slash toggle-password-register&quot;]</value>
+      <webElementGuid>561ad1e1-48ad-458b-b73d-30945bbd0399</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerkgm']/div/div[3]/span/i</value>
+      <webElementGuid>e56c591d-24cd-4fdb-802e-90bfb473b0e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/i</value>
+      <webElementGuid>e8026429-d779-49e3-9c3c-6fee85851c17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

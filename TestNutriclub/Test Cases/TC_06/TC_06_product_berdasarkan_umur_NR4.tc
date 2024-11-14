@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_06_product_berdasarkan_umur_NR4</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ed1a0b2-3556-41f8-9403-97afdccae080</testCaseGuid>
+</TestCaseEntity>

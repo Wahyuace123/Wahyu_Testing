@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_014 tidak pilih tanggal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88ccfa1e-5990-4355-9528-9010abedbbb5</testCaseGuid>
+</TestCaseEntity>
